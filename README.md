@@ -1,5 +1,7 @@
 # Actuary-Exam
 
+<img src="https://gradsingapore.com/sites/gradsingapore.com/files/gradsingapore_Article_Actuarial%20Science1_2017.png" width="700">
+
 This is a special repository that provide example of Society of Actuary of Indonesia (Persatuan Aktuaris Indonesia) or PAI Examination. This repository contains exam questions for :
 * A10 Matematika Keuangan / Mathematical Finance
 * A20 Probabilitas dan Statistika / Probability and Statistics
